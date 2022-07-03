@@ -1,3 +1,5 @@
+#pip install youtube_dl
+
 import youtube_dl
 def download_ytvid_as_mp3():
     video_url = input("enter url of youtube video:")
